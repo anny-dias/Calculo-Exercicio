@@ -7,3 +7,4 @@ while a < b:
     b *= 1.015
     t += 1
 print(f"O ano que a cidade A passará de B é: {t}")
+
